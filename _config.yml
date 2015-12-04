@@ -1,0 +1,14 @@
+layout_spectrum: 0.7150537
+color:
+  saturation: 0.06451613
+  brandStrength: 0.827957
+  lightness: 0.0125448
+  brandColors:
+    - '#FFFFFF'
+    - '#543831'
+    - '#5D5C5B'
+    - '#916C67'
+    - '#CFD0CE'
+  rhythmicContrast: 0.2383513
+typography_spectrum: 0.8942652
+name: paulrobinson
