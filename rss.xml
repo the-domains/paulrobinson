@@ -4,7 +4,7 @@
         <description><![CDATA[paulrobinson]]></description>
         <link>https://thegrid.ai/paulrobinson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 21:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Dec 2015 21:43:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/paulrobinson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/paulrobinson/hello-world/index.html</link>
             <guid isPermaLink="false">f9ccc43f-0856-4a9e-aacf-514ee7c80ec9</guid>
             <pubDate>Mon, 07 Dec 2015 21:42:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/paulrobinson/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">b1ddfb77-700c-4434-b0ee-06f19f3a7a9b</guid>
-            <pubDate>Fri, 04 Dec 2015 20:38:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
