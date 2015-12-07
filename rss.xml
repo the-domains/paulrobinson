@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[paulrobinson]]></title>
         <description><![CDATA[paulrobinson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/paulrobinson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 20:38:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Dec 2015 21:42:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/paulrobinson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <description><![CDATA[<article><h1>Hello World</h1><p>I'm trying out The Grid for a while to see whether it's going to float my boat. I was a founding funder, and am intrigued to see whether its AI design bot can make up for the awful design skills I myself regularly exhibit - thank goodness I am a better dancer than I am designer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf0d0f4cc0c766df101d47bc4228e73ba7bfc4fe.jpg"></article>]]></description>
+            <link>https://thegrid.ai/paulrobinson/hello-world/index.html</link>
+            <guid isPermaLink="false">f9ccc43f-0856-4a9e-aacf-514ee7c80ec9</guid>
+            <pubDate>Mon, 07 Dec 2015 21:42:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/paulrobinson/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">b1ddfb77-700c-4434-b0ee-06f19f3a7a9b</guid>
             <pubDate>Fri, 04 Dec 2015 20:38:41 GMT</pubDate>
         </item>
